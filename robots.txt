@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gapba.csgad.com/FHB/sitemap.xml.gz
